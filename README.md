@@ -1,5 +1,5 @@
 ## About
-Someone who dreams of becoming a professional developer.
+Some random linux enthusiast who dreams of becoming a professional developer.
 I'm capable of programming with C and Python.
 
 ## contacts
