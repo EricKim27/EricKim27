@@ -1,6 +1,6 @@
 ## About
 Some random linux enthusiast who dreams of becoming a professional developer.
-I'm capable of programming with C and Python.
+I'm capable of programming with C, C++, and Python.
 
 ## contacts
  - Email
