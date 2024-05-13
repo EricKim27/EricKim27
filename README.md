@@ -1,8 +1,9 @@
 ## About
-Some random linux enthusiast who dreams of becoming a professional developer.
+Some random linux/unix enthusiast who dreams of becoming a professional developer.
 I'm capable of programming with C, C++, and Python.
 
 ## contacts
+Looking forward for conversations...
  - Email
    - seohyun.kim@outlook.kr
    - you1kim27@gmail.com
