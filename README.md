@@ -2,7 +2,6 @@
 Some random linux/unix enthusiast who dreams of becoming a professional developer.
 I'm capable of programming with C, C++, Python, JavaScript, and Kotlin.
 
-I'm migrating my projects to my personal git server. [Feel free to checkout.](https://onlykim.kro.kr/EricKim27)
 ## contacts
 Looking forward for conversations...
  - Email
