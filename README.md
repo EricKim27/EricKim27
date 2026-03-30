@@ -7,6 +7,8 @@ Looking forward for conversations...
  - Email
    - seohyun.kim@outlook.kr
    - you1kim27@gmail.com
+
+<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EricKim27&layout=compact&theme=midnight-purple&hide_border=true"/>
 <!---
 EricKim27/EricKim27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
