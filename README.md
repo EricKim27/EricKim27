@@ -1,6 +1,7 @@
 ## About
 Some random linux/unix enthusiast who dreams of becoming a professional developer.
-I'm capable of programming with C, C++, Python, JavaScript, and Kotlin.
+I contribute to linux kernel module projects on github from time to time.
+I'm capable of programming with C, C++, Python, and c#.
 
 ## contacts
 Looking forward for conversations...
