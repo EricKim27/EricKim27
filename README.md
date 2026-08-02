@@ -3,10 +3,11 @@ Some random linux/unix enthusiast who dreams of becoming a professional develope
 
 I contribute to linux kernel module projects on github from time to time.
 
-I'm capable of programming with C, C++, Python, and c#.
+I spend most of my time studying the linux kernel and the hardware surrounding it.
+
+I'm capable of programming with C, C++, C#, and Python, for the most part.
 
 ## contacts
-Looking forward for conversations...
  - Email
    - seohyun.kim@outlook.kr
    - you1kim27@gmail.com
