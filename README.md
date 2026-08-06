@@ -15,9 +15,8 @@
 𝑺𝒕𝒖𝒅𝒚𝒊𝒏𝒈: 𝑳𝒊𝒏𝒖𝒙 𝒌𝒆𝒓𝒏𝒆𝒍 · 𝑪𝒐𝒎𝒑𝒖𝒕𝒆𝒓 𝒊𝒏𝒕𝒆𝒓𝒏𝒂𝒍𝒔
 </h3>
 
-<h1 align="center">contacts</h1>
+<h1 align="center">𝑪𝒐𝒏𝒕𝒂𝒄𝒕𝒔</h1>
 <div align="center">
-<h3>Email</h3>
 
    seohyun.kim@outlook.kr
 
