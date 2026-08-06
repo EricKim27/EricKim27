@@ -1,6 +1,6 @@
 <br>
 <p>
-<img align=left, src=https://media1.tenor.com/m/vzDojJxT8HwAAAAd/%E9%9F%B3%E4%B9%83%E7%80%AC%E5%A5%8F-%E5%A5%8F.gif/>
+<img align="left" src=https://media1.tenor.com/m/vzDojJxT8HwAAAAd/%E9%9F%B3%E4%B9%83%E7%80%AC%E5%A5%8F-%E5%A5%8F.gif/>
 
 ```
 @EricKim27
