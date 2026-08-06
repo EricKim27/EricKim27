@@ -15,13 +15,16 @@
 𝑺𝒕𝒖𝒅𝒚𝒊𝒏𝒈: 𝑳𝒊𝒏𝒖𝒙 𝒌𝒆𝒓𝒏𝒆𝒍 · 𝑪𝒐𝒎𝒑𝒖𝒕𝒆𝒓 𝒊𝒏𝒕𝒆𝒓𝒏𝒂𝒍𝒔
 </h3>
 
+<h1 align="center">contacts</h1>
+<div align="center">
+<h3>Email</h3>
 
-## contacts
- - Email
-   - seohyun.kim@outlook.kr
-   - you1kim27@gmail.com
+   seohyun.kim@outlook.kr
+
+   you1kim27@gmail.com
 
 <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EricKim27&layout=compact&theme=dark&hide_border=true"/>
+</div>
 <!---
 EricKim27/EricKim27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
