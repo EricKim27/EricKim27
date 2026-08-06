@@ -1,8 +1,8 @@
-<br>
-<p>
 
+<div align="center">
 <img align="center" src=https://media1.tenor.com/m/vzDojJxT8HwAAAAd/%E9%9F%B3%E4%B9%83%E7%80%AC%E5%A5%8F-%E5%A5%8F.gif/ width="300">
-<hr>
+</div>
+
 <h1 align="center">𝑬𝒓𝒊𝒄 𝑲𝒊𝒎</h1>
 <h3 align="center">
 
@@ -14,9 +14,7 @@
 
 𝑺𝒕𝒖𝒅𝒚𝒊𝒏𝒈: 𝑳𝒊𝒏𝒖𝒙 𝒌𝒆𝒓𝒏𝒆𝒍 · 𝑪𝒐𝒎𝒑𝒖𝒕𝒆𝒓 𝒊𝒏𝒕𝒆𝒓𝒏𝒂𝒍𝒔
 </h3>
-</p>
 
-<br>
 
 ## contacts
  - Email
