@@ -1,25 +1,16 @@
 <br>
 <p>
-<img align="left" src=https://media1.tenor.com/m/vzDojJxT8HwAAAAd/%E9%9F%B3%E4%B9%83%E7%80%AC%E5%A5%8F-%E5%A5%8F.gif/>
+<img align="left" src=https://media1.tenor.com/m/vzDojJxT8HwAAAAd/%E9%9F%B3%E4%B9%83%E7%80%AC%E5%A5%8F-%E5%A5%8F.gif/ width="300">
 
-```
-@EricKim27
---------------------
-School: CBNU
-Language used: C, C++, C#, Python
-Interest: Linux kernel
-```
+# @EricKim27
+--
+#### School: CBNU
+#### Language used: C, C++, C#, Python
+#### Interest: Linux kernel, Sun microsystems hardware
+#### What I study: Linux kernel, Computer internals
 </p>
-</br>
 
-## About
-Some random linux/unix enthusiast who dreams of becoming a professional developer.
-
-I contribute to linux kernel module projects on github from time to time.
-
-I spend most of my time studying the linux kernel and the hardware surrounding it.
-
-I'm capable of programming with C, C++, C#, and Python, for the most part.
+<br>
 
 ## contacts
  - Email
