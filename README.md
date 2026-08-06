@@ -1,19 +1,15 @@
 <p>
 <img align=left, src=https://media1.tenor.com/m/vzDojJxT8HwAAAAd/%E9%9F%B3%E4%B9%83%E7%80%AC%E5%A5%8F-%E5%A5%8F.gif/>
 
-
-
-# <span style="color:#edd793">@EricKim27</span>
-
-
-----
-<span style="color:#edd793">School: CBNU</span>
-
-<span style="color:#edd793">Language used: C, C++, C#, Python</span>
-
-<span style="color:#edd793">Interest: Linux kernel</span>
-
+```
+@EricKim27
+--------------------
+School: CBNU
+Language used: C, C++, C#, Python
+Interest: Linux kernel
+```
 </p>
+<table>
 
 ## About
 Some random linux/unix enthusiast who dreams of becoming a professional developer.
