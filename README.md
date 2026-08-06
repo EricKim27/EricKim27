@@ -1,10 +1,11 @@
 <br>
 <p>
-<center>
-<img src=https://media1.tenor.com/m/vzDojJxT8HwAAAAd/%E9%9F%B3%E4%B9%83%E7%80%AC%E5%A5%8F-%E5%A5%8F.gif/ width="300">
+
+<img align="center" src=https://media1.tenor.com/m/vzDojJxT8HwAAAAd/%E9%9F%B3%E4%B9%83%E7%80%AC%E5%A5%8F-%E5%A5%8F.gif/ width="300">
 <hr>
-<h1>𝑬𝒓𝒊𝒄 𝑲𝒊𝒎</h1>
-<h3>
+<h1 align="center">𝑬𝒓𝒊𝒄 𝑲𝒊𝒎</h1>
+<h3 align="center">
+
 𝑺𝒄𝒉𝒐𝒐𝒍: 𝑪𝑩𝑵𝑼  
 
 𝑳𝒂𝒏𝒈𝒖𝒂𝒈𝒆𝒔: 𝑪 · 𝑪++ · 𝑪# · 𝑷𝒚𝒕𝒉𝒐𝒏  
@@ -14,7 +15,7 @@
 𝑺𝒕𝒖𝒅𝒚𝒊𝒏𝒈: 𝑳𝒊𝒏𝒖𝒙 𝒌𝒆𝒓𝒏𝒆𝒍 · 𝑪𝒐𝒎𝒑𝒖𝒕𝒆𝒓 𝒊𝒏𝒕𝒆𝒓𝒏𝒂𝒍𝒔
 </h3>
 </p>
-</center>
+
 <br>
 
 ## contacts
